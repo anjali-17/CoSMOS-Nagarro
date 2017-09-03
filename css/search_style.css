@@ -1,0 +1,45 @@
+#imaginary_container{
+    margin-top:3%; /* Don't copy this */
+    width: auto;
+}
+.stylish-input-group .input-group-addon{
+    background: black !important;
+}
+.stylish-input-group .form-control{
+    border-right:0;
+    box-shadow:0 0 0;
+    border-color:#ccc;
+    background:transparent;
+    color: whitesmoke;
+}
+.stylish-input-group button{
+    border:0;
+    background:transparent;
+}
+
+#main_content {
+    background-color: #ccc;
+    width: 100%;
+}
+
+#image_show > h3{
+    color: #050413;
+    font-size: 15px;
+    padding: 8px 12px;
+    position: absolute;
+    bottom: 8px;
+    width: 100%;
+    text-align: center;
+}
+
+#foot li {
+    display: inline-block;
+    margin: 5px;
+}
+
+
+#footerWrapper {
+    position : absolute;
+    background-color: #ccc;
+}
+
